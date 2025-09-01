@@ -3,7 +3,7 @@
 **Ubicación:** Punta Arenas, Chile  
 **Email:** nicolas.bonillam@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/kevin-bonilla-montes-de-oca-686652130  
-**GitHub:** https://github.com/TU_USUARIO
+**GitHub:** https://github.com/kevinbonillamontesdeoca
 
 > Última actualización: 2025-09-01
 
@@ -22,14 +22,17 @@ Técnico en Telecomunicaciones, Conectividad y Redes, con experiencia en soporte
 **Soporte e Instalación — CAS Chile – Municipalidad de Punta Arenas** · *09/2023 – Actualidad*
 - Gestión integral de sistemas municipales para operación continua.
 - Soporte e instalación en terreno; coordinación con equipos para asegurar disponibilidad.
+  
 **Soporte Técnico — Clínica RedSalud Magallanes SPA** · *12/2019 – 08/2023*
 - Administración de redes VPN y estrategias de respaldo.
 - Soporte a usuarios; diagnóstico y resolución de incidentes.
 - Configuración y mantenimiento de equipos Windows y Mac; optimización de recursos.
 - Automatización de consultas y análisis de datos con SQL.
+  
 **Soporte Técnico — SICE** · *10/2018 – 04/2019*
 - Soporte para servicios de telecomunicaciones (ENTEL); continuidad y disponibilidad.
 - Identificación de oportunidades de mejora del servicio.
+  
 **Operador RF / Team Leader — F1 Services & Solutions** · *04/2018 – 09/2018*
 - Coordinación de equipos técnicos y gestión de materiales/mantenimiento.
 - Diagnóstico y resolución de fallas en tecnología móvil.
@@ -44,13 +47,3 @@ Técnico en Telecomunicaciones, Conectividad y Redes, con experiencia en soporte
 - Herramientas para automatización de procesos de BD — Teleduc (PUC)
 - Introducción al IoT — INACAP
 - Big Data & Analytics — INACAP
-
-## Proyectos (GitHub)
-- **CIFS/NFS seguro (Rocky Linux / Windows)** — Control de accesos, hardening, auditoría. [https://github.com/TU_USUARIO/proyecto-cifs-nfs](https://github.com/TU_USUARIO/proyecto-cifs-nfs)
-- **BIND/DNS** — Zonas, validación y troubleshooting. [https://github.com/TU_USUARIO/proyecto-bind](https://github.com/TU_USUARIO/proyecto-bind)
-- **Hardening SSH** — Endurecimiento, claves, fail2ban. [https://github.com/TU_USUARIO/proyecto-ssh](https://github.com/TU_USUARIO/proyecto-ssh)
-- **Script de respaldo** — Copia incremental + logs (PowerShell/Bash). [https://github.com/TU_USUARIO/proyecto-respaldo](https://github.com/TU_USUARIO/proyecto-respaldo)
-
----
-
-> Sugerencia: habilita GitHub Pages (Settings → Pages → Deploy from a branch) para publicar una versión web de este CV usando `index.html`.
